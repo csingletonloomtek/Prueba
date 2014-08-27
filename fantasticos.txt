@@ -1,0 +1,21 @@
+FL_USUARIO_CREACION	
+Identificador del usuario que generó el registro
+
+FL_USUARIO_MODIFICACION
+Identificador del usuario que modificó el registro
+
+NB_PROGRAMA_CREACION
+Programa que generó el registro
+
+NB_PROGRAMA_MODIFICACION
+Programa que modificó el registro
+
+FE_CREACION
+Fecha de creación del registro
+
+FE_MODIFICACION
+Fecha de modificación del registro
+
+Run the SQL scripts located in C:\oraclexe\app\oracle\product\11.2.0\client_1\ASP.NET\SQL directory for a new installation or an upgrade of Oracle Providers for ASP.NET.
+Run the SQL scripts located in C:\oraclexe\app\oracle\product\11.2.0\client_2\ASP.NET\SQL directory for a new installation or an upgrade of Oracle Providers for ASP.NET.
+
