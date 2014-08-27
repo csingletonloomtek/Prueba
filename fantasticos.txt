@@ -1,4 +1,4 @@
-FL_USUARIO_CREACION	
+FL_USUARIO_CREACION	 cambio
 Identificador del usuario que generó el registro
 
 FL_USUARIO_MODIFICACION
