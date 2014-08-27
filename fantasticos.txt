@@ -1,5 +1,5 @@
 FL_USUARIO_CREACION	
-Identificador del usuario que generó el registro
+Identificador del usuario que generó el registrossssss
 
 FL_USUARIO_MODIFICACION
 Identificador del usuario que modificó el registro
